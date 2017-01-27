@@ -4,7 +4,9 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  color: #fc9d05;
-  text-align: center;
-  background-color: #fc9d05;
-  }
+    background-position: center center;
+    background-image: url("../images/header-code.jpg");
+    left: 0;
+    right: 0;
+    background-color: #fff;
+}
