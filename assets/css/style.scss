@@ -3,4 +3,8 @@
 
 @import "{{ site.theme }}";
 
-$header-bg-color: #fc9d05;
+.page-header {
+  color: #fc9d05;
+  text-align: center;
+  background-color: #fc9d05;
+  }
