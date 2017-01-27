@@ -1,4 +1,6 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
+
+$header-bg-color: #fc9d05;
