@@ -4,10 +4,8 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  color: #2E312C;
-  text-align: center;
-  background-color: #fff;
-  background-image: linear-gradient(to bottom, #fca314, #fff);
+    background-position: center center;
+    background-image: url("../images/header-code.jpg");
 }
 
 .main-content {
