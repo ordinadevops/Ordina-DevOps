@@ -6,8 +6,16 @@
 .page-header {
     background-position: center center;
     background-image: url("../images/code.jpg");
+    left: 0;
+    right: 0;
+    background-color: #fff;
 }
 
 .main-content {
-  color: #2E312C;
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        font-weight: normal;
+        color: #222;
+    }
 }
